@@ -5,7 +5,7 @@
       var lat = position.coords.latitude;
       var long = position.coords.longitude;
       populateLocation(lat, long);
-      var cors_url = "http://cors-anywhere.herokuapp.com/";
+      var cors_url = "https://cors-anywhere.herokuapp.com/";
       var api_url = cors_url + "https://api.darksky.net/forecast/226042c4c5489e625b69ad1a24fb205d/";
       api_url += lat +','+long;
       var params = "?exclude=minutely,hourly,daily,alerts&units=auto";

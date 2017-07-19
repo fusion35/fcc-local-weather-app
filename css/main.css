@@ -1,0 +1,59 @@
+body {
+  padding-top: 2em;
+  font-family: 'Averia Sans Libre', cursive;
+  font-size: 40px;
+}
+a {
+    text-decoration : none !important;
+}
+#summary-icon {
+  display: inline-block;
+  position: relative;
+  width: 90px;
+  height: 90px;
+  left: -22px;
+  top: 24px;
+}
+#summary-icon + span {
+  position: relative;
+  left: -30px;
+}
+.partly-cloudy-day {
+  background-image: url("/img/svg/Cloud-Sun.svg");
+}
+.partly-cloudy-night {
+  background-image: url("/img/svg/Cloud-Moon.svg")
+}
+.clear-day {
+  background-image: url("/img/svg/Sun.svg")
+}
+.clear-night {
+  background-image: url("/img/svg/Moon.svg")
+}
+.rain {
+  background-image: url("/img/svg/Cloud-Rain.svg")
+}
+.snow {
+  background-image: url("/img/svg/Snowflake.svg")
+}
+.sleet {
+  background-image: url("/img/svg/Cloud-Snow.svg")
+}
+.wind {
+  background-image: url("/img/svg/Wind.svg")
+}
+.fog {
+  background-image: url("/img/svg/Cloud-Fog-Alt.svg")
+}
+.cloudy {
+  background-image: url("/img/svg/Cloud.svg")
+}
+.hail {
+  background-image: url("/img/svg/Cloud-Hail-Alt.svg");
+}
+.thunderstorm {
+  background-image: url("/img/svg/Cloud-Lightning.svg");
+}
+.tornado {
+  background-image: url("/img/svg/Tornado.svg");
+}

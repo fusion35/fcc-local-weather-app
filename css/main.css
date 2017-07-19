@@ -19,10 +19,10 @@ a {
   left: -30px;
 }
 .partly-cloudy-day {
-  background-image: url("/img/svg/Cloud-Sun.svg");
+  background-image: url("img/svg/Cloud-Sun.svg");
 }
 .partly-cloudy-night {
-  background-image: url("/img/svg/Cloud-Moon.svg")
+  background-image: url("img/svg/Cloud-Moon.svg")
 }
 .clear-day {
   background-image: url("/img/svg/Sun.svg")

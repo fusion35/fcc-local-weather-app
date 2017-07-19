@@ -19,41 +19,41 @@ a {
   left: -30px;
 }
 .partly-cloudy-day {
-  background-image: url("img/svg/Cloud-Sun.svg");
+  background-image: url("../img/svg/Cloud-Sun.svg");
 }
 .partly-cloudy-night {
-  background-image: url("img/svg/Cloud-Moon.svg")
+  background-image: url("../img/svg/Cloud-Moon.svg")
 }
 .clear-day {
-  background-image: url("/img/svg/Sun.svg")
+  background-image: url("../img/svg/Sun.svg")
 }
 .clear-night {
-  background-image: url("/img/svg/Moon.svg")
+  background-image: url("../img/svg/Moon.svg")
 }
 .rain {
-  background-image: url("/img/svg/Cloud-Rain.svg")
+  background-image: url("../img/svg/Cloud-Rain.svg")
 }
 .snow {
-  background-image: url("/img/svg/Snowflake.svg")
+  background-image: url("../img/svg/Snowflake.svg")
 }
 .sleet {
-  background-image: url("/img/svg/Cloud-Snow.svg")
+  background-image: url("../img/svg/Cloud-Snow.svg")
 }
 .wind {
-  background-image: url("/img/svg/Wind.svg")
+  background-image: url("../img/svg/Wind.svg")
 }
 .fog {
-  background-image: url("/img/svg/Cloud-Fog-Alt.svg")
+  background-image: url("../img/svg/Cloud-Fog-Alt.svg")
 }
 .cloudy {
-  background-image: url("/img/svg/Cloud.svg")
+  background-image: url("../img/svg/Cloud.svg")
 }
 .hail {
-  background-image: url("/img/svg/Cloud-Hail-Alt.svg");
+  background-image: url("../img/svg/Cloud-Hail-Alt.svg");
 }
 .thunderstorm {
-  background-image: url("/img/svg/Cloud-Lightning.svg");
+  background-image: url("../img/svg/Cloud-Lightning.svg");
 }
 .tornado {
-  background-image: url("/img/svg/Tornado.svg");
+  background-image: url("../img/svg/Tornado.svg");
 }
